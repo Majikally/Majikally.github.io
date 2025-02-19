@@ -1,0 +1,71 @@
+h1 {
+    color: rgb(1, 136, 177);
+    font-family:  Georgia;
+    font-size: 80px;
+}
+
+h2{
+    color: blue;
+    font-family:  Georgia;
+}
+
+p {
+    font-family: arial;
+    font-size: 13px;
+}
+
+h3{
+color: blue;
+}
+
+h4{
+color: blue;
+}
+h5{
+    color: rgb(185, 185, 39);
+}
+
+.box{
+    height: 550px;
+    width: 300px;
+    padding: 20px;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid black;
+    
+    
+}
+
+.boxx{
+    height: 150px;
+    width: 300px;
+    padding: 20px;
+    margin: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid black;
+    background-color: chartreuse;
+    
+}
+
+.boxxx{
+    height: 50px;
+    width: 200px;
+    padding: 20px;
+    margin: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid black;
+    background-color: chartreuse;
+    
+}
+
+.content{
+    text-align: center;
+    align-items: center;
+   
+}
