@@ -1,42 +1,51 @@
 h1 {
-    color: rgb(1, 136, 177);
+    color: #FF715B;
     font-family:  Georgia;
     font-size: 80px;
+    text-shadow: 2px 2px red;
 }
 
 h2{
-    color: blue;
-    font-family:  Georgia;
+    color: #FF715B;
+    font-family:  "Papyrus", fantasy;
 }
 
 p {
-    font-family: arial;
-    font-size: 13px;
+    font-family: Monaco;
+    font-size: 15px;
+    color: #ea4127;
 }
 
 h3{
-color: blue;
+color: #FF715B;
+font-family: "Papyrus", fantasy;
 }
 
 h4{
-color: blue;
+color: #FF715B;
+font-family: "Papyrus", fantasy;
 }
 h5{
-    color: rgb(185, 185, 39);
+    color: #c4331d;
+    font-family: "Papyrus", fantasy;
 }
 
 .box{
     height: 550px;
     width: 300px;
     padding: 20px;
-    
+    margin: 50px;
     display: block;
     margin-left: auto;
     margin-right: auto;
     border: 10px solid black;
+    background-color: #A8C7BB;
+    background-image: url("IMG_2529.jpg");
     
     
 }
+
+
 
 .boxx{
     height: 150px;
@@ -47,7 +56,7 @@ h5{
     margin-left: auto;
     margin-right: auto;
     border: 5px solid black;
-    background-color: chartreuse;
+    background-color: #A8C7BB;
     
 }
 
@@ -60,12 +69,25 @@ h5{
     margin-left: auto;
     margin-right: auto;
     border: 5px solid black;
-    background-color: chartreuse;
+    background-color: #A8C7BB;
+    
+}
+
+.boxxxx{
+    height: 300px;
+    width: 100%;
+    padding: 20px;
+    
+    display: block;
+   
+    border: 5px solid black;
+    background-color: #A8C7BB;
     
 }
 
 .content{
+    background-color: #2D3047;
     text-align: center;
-    align-items: center;
+    
    
 }
