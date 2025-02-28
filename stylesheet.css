@@ -91,7 +91,7 @@ p{
 .right {
     flex: 1;
     background-image: url("artha.jpeg");
-    background-size:contain;
+    background-size:cover;
 }
 
 .rightbox{
