@@ -1,6 +1,6 @@
 h1 {
     font-family:  'Graduate', serif;
-    font-size: 40px;
+    font-size: 10vh;
     color: white;
 }
 
@@ -15,7 +15,7 @@ h3{
 
 p{
     font-family: 'Graduate', serif;
-    font-size: 20px;
+    font-size: 3vh;
     color: white;
 }
 .container{ 
@@ -37,7 +37,7 @@ p{
     background-color: black;
     justify-content: center;
     align-items: center;
-    font-size: 65px;
+    font-size: 15vh;
     color: white;
     text-shadow: 2px 2px rgb(255, 150, 63);
     font-family:  'Julius Sans One', serif;
@@ -76,8 +76,8 @@ p{
 
 .leftimage{
     position: absolute;  
-    height: 225px;
-    width: 400px;
+    height: 90%;
+    width: 25vw;
     right: 2%;
     background-color: white;
     background-image: url(ambarino.avif);
@@ -135,8 +135,8 @@ background-color: #D41936;
 
 .leftimage-one{
     position: absolute;  
-    height: 225px;
-    width: 400px;
+    height: 90%;
+    width: 25vw;
     left: 2%;
     background-color: white;
     background-size: cover;
@@ -187,8 +187,8 @@ background-color: #D41936;
 
     .leftimage-two{
         position: absolute;  
-        height: 225px;
-        width: 400px;
+        height: 90%;
+    width: 25vw;
         right: 2%;
         background-color: white;
         background-size: cover;
