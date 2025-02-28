@@ -21,7 +21,7 @@ p{
 .container{ 
     flex: 3;
     display: flex;
-    height: 500px;
+    height: 100vh;
 
 }
 .left{
@@ -97,7 +97,7 @@ p{
 .rightbox{
 display: flex;
 background-color: #BB1F37;
-height: 250px;
+height: 50vh;
 width: 75%;
 float: right;
 position: relative;
@@ -152,7 +152,7 @@ background-color: #D41936;
     display: flex;
     background-color: #D41936;
     position: relative;
-    height: 250px;
+    height: 50vh;
     width: 75%;
     float: left;
     background-color: #D41936;
