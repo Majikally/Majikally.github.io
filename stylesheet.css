@@ -1,6 +1,6 @@
 h1 {
     font-family:  'Graduate', serif;
-    font-size: 11vh;
+    font-size: 10vh;
     color: white;
 }
 
@@ -77,7 +77,7 @@ p{
 .leftimage{
     position: absolute;  
     height: 90%;
-    width: 25vw;
+    width: 22vw;
     right: 2%;
     background-color: white;
     background-image: url(ambarino.avif);
@@ -136,7 +136,7 @@ background-color: #D41936;
 .leftimage-one{
     position: absolute;  
     height: 90%;
-    width: 25vw;
+    width: 22vw;
     left: 2%;
     background-color: white;
     background-size: cover;
@@ -188,7 +188,7 @@ background-color: #D41936;
     .leftimage-two{
         position: absolute;  
         height: 90%;
-    width: 25vw;
+        width: 22vw;
         right: 2%;
         background-color: white;
         background-size: cover;
